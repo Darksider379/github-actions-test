@@ -1,0 +1,18 @@
+name: Chandra
+age: 28
+address: "Country: India"
+active: true
+key:
+    key: "value1"
+    key2: "value2"
+    key3:
+        key: "value3"
+array:
+    - "item1"
+    - "item2"
+    - {"key":"value"}
+objectArray:
+    - key1: "value1"
+      key2: "value1"
+    - key3: "value2"
+      key4: "value2"
